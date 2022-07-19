@@ -1,5 +1,4 @@
 {
- 
   "products": [{
       "id": 8,
       "gender": "men",
@@ -2128,14 +2127,5 @@
       ],
       "isInOffer": false
     }
-
-
-
-
-
-
-
-
   ]
-  
 }
